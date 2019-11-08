@@ -1,0 +1,86 @@
+@charset "utf-8";
+.font {
+	font-family: Candara;
+	font-size: 16px;
+	color: #300;
+	font-weight: bold;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: justify;
+}
+.head1 {
+	font-family: Candara;
+	font-size: 24px;
+	font-weight: bold;
+	color: #600;
+}
+.head2 {
+	font-family: Candara;
+	font-size: 18px;
+	color: #660000;
+	font-weight: bolder;
+}
+.right-image {
+	padding-right: 5px;
+}
+.ban-img {
+	text-align: center;
+}
+
+.center-image {
+	text-align: center;
+	border: thin solid #933;
+	padding-right: 30px;
+	padding-left: 100px;
+}
+.colomn {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #330000;
+	line-height: 20px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+
+
+.left-image {
+	border: thin solid #003300;
+	padding-left: 5px;
+}
+.border {
+	border: medium solid #600;
+}
+.borderimg {
+	border: thin solid #300;
+}
+
+#woman img {
+	border: thin solid #300;
+}
+#man img {
+	border: thin solid #300;
+}
+
+
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: #030;
+	text-align: center;
+}
+.addres {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #030;
+	text-align: center;
+	padding-top: 10px;
+}
+.fontform {
+	color: #300;
+}
+.borderform {
+	border: thin solid #300;
+}
